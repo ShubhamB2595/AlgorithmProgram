@@ -4,7 +4,7 @@ public class SearchWord {
 
 	public static void main(String[] args) {
 
-		//Initialization string array and word to 
+		//Initialization string array and word 
 		String[] strArr = { "AAA", "BBB", "CCC", "DDD", "EEE", "FFF", "GGG" };
 		String word = "CCC";
 		
